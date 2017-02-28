@@ -1,15 +1,62 @@
 {
-  "name": "react-native-device",
-  "version": "1.0.1",
+  "_args": [
+    [
+      {
+        "raw": "react-native-device@~1.0.1",
+        "scope": null,
+        "escapedName": "react-native-device",
+        "name": "react-native-device",
+        "rawSpec": "~1.0.1",
+        "spec": ">=1.0.1 <1.1.0",
+        "type": "range"
+      },
+      "/home/leo/Programmation/inTeach/Application"
+    ]
+  ],
+  "_from": "react-native-device@>=1.0.1 <1.1.0",
+  "_id": "react-native-device@1.0.1",
+  "_inCache": true,
+  "_location": "/react-native-device",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "gertjanreynaert",
+    "email": "gertjan@typework.com"
+  },
+  "_npmVersion": "3.3.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-device@~1.0.1",
+    "scope": null,
+    "escapedName": "react-native-device",
+    "name": "react-native-device",
+    "rawSpec": "~1.0.1",
+    "spec": ">=1.0.1 <1.1.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-device/-/react-native-device-1.0.1.tgz",
+  "_shasum": "7942f74fd6166564337d9375cae3de8aede81ba8",
+  "_shrinkwrap": null,
+  "_spec": "react-native-device@~1.0.1",
+  "_where": "/home/leo/Programmation/inTeach/Application",
+  "author": {
+    "name": "Gertjan Reynaert"
+  },
+  "bugs": {
+    "url": "https://github.com/GertjanReynaert/react-native-device/issues"
+  },
+  "dependencies": {},
   "description": "UIDevice wrapper for React Native",
-  "main": "Device.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7942f74fd6166564337d9375cae3de8aede81ba8",
+    "tarball": "https://registry.npmjs.org/react-native-device/-/react-native-device-1.0.1.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GertjanReynaert/react-native-device"
-  },
+  "gitHead": "103766fb7f86af2975ab8ad6beabf55df0d0c0f7",
+  "homepage": "https://github.com/GertjanReynaert/react-native-device#readme",
   "keywords": [
     "react-component",
     "react-native",
@@ -20,6 +67,23 @@
     "model",
     "name"
   ],
-  "author": "Gertjan Reynaert",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "Device.js",
+  "maintainers": [
+    {
+      "name": "gertjanreynaert",
+      "email": "gertjan@typework.com"
+    }
+  ],
+  "name": "react-native-device",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GertjanReynaert/react-native-device.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }

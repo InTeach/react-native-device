@@ -1,6 +1,4 @@
-# React Native Device [deprecated]
-
-This project is no longer maintained. You can still use it as is, but bugs will no longer be fixed, features will no longer be implemented. An alternative to this package might be [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
+# React Native Device
 
 ![NPM Stats](https://nodei.co/npm/react-native-device.png?downloads=true)
 
@@ -38,7 +36,7 @@ The device model is of type iPhone
 Device.model
 ```
 
-The device model, such as `iPhone` or `iPad`
+The device model, such as `iPhone 5` or `iPad Air` - [All model options](https://github.com/InderKumarRathore/DeviceUtil/blob/master/DeviceUtil.m)
 
 ```javascript
 Device.deviceName
@@ -57,11 +55,6 @@ Device.systemVersion
 ```
 
 The device OS version, such as `8.4`
-```javascript
-Device.deviceVersion
-```
-
-The specific device version, such as `iPhone 4S` or `iPhone 6` - [All model options](https://gist.github.com/kkjdaniel/652cf598ae0ac298a50b)
 
 ## Example
 
